@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewYorkTimeDemo</string>
+
+    <string name="network_error_message">Server or Network has error, please check your network connection</string>
+</resources>
